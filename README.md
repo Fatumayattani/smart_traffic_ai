@@ -18,3 +18,10 @@ The objective of SmartTraffic AI is to leverage AI-driven models to enhance tran
 ## AI Model
 
 SmartTraffic AI is powered by Google’s Generative AI (Gemini model), using a natural language processing approach to generate meaningful insights. This AI model analyzes context provided in prompts to output actionable traffic insights.
+
+## How It Works
+SmartTraffic AI’s insights are generated in the following way:
+
+- **Data Collection**: The tool considers predefined traffic conditions such as congestion, weather, and incidents.
+- **AI Processing**: Using a prompt fed into Google’s Gemini AI model, the application generates a brief traffic prediction and recommendations.
+- **Result Display**: The generated insight is presented to the user through a clean, user-friendly interface.
