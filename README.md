@@ -12,3 +12,4 @@ The objective of SmartTraffic AI is to leverage AI-driven models to enhance tran
 
 - **AI-Powered Traffic Prediction**: Generates predictive insights based on current traffic, weather, and incident reports.
 - **Real-Time Recommendations**: Provides actionable suggestions, helping users select the best routes during peak traffic hours.
+- **Dynamic Loading Indicators**: A user-friendly interface with responsive loading animations to keep users informed during analysis.
