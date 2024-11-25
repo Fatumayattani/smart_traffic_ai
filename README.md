@@ -36,7 +36,6 @@ SmartTraffic AI’s insights are generated in the following way:
 ## Contributing
 Contributions are welcome to improve SmartTraffic AI’s capabilities and user experience. Please follow these steps if you’re interested:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes and open a pull request.
-For major changes, open an issue first to discuss proposed updates with the team.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes and open a pull request.
