@@ -29,7 +29,7 @@ SmartTraffic AI’s insights are generated in the following way:
 ## Future Development
 - **Real-Time Data Integration**: Integrate actual traffic and weather APIs to provide fully dynamic, live traffic insights.
 - **User Input Customization**: Allow users to input specific locations, routes, or desired travel times for more tailored insights.
-Mobile Compatibility: Develop a mobile version of the app for on-the-go accessibility.
+-**Mobile Compatibility**: Develop a mobile version of the app for on-the-go accessibility.
 Multilingual Support: Expand language options to make SmartTraffic AI accessible to a wider, global audience.
 Notification System: Implement real-time push notifications to alert users of significant changes in traffic conditions on their routes.
 
