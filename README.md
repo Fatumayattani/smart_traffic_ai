@@ -14,3 +14,7 @@ The objective of SmartTraffic AI is to leverage AI-driven models to enhance tran
 - **Real-Time Recommendations**: Provides actionable suggestions, helping users select the best routes during peak traffic hours.
 - **Dynamic Loading Indicators**: A user-friendly interface with responsive loading animations to keep users informed during analysis.
 - **Error Handling**: Ensures reliable usage with messages to alert users when insights are unavailable.
+
+## AI Model
+
+SmartTraffic AI is powered by Google’s Generative AI (Gemini model), using a natural language processing approach to generate meaningful insights. This AI model analyzes context provided in prompts to output actionable traffic insights.
