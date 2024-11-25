@@ -25,3 +25,10 @@ SmartTraffic AI’s insights are generated in the following way:
 - **Data Collection**: The tool considers predefined traffic conditions such as congestion, weather, and incidents.
 - **AI Processing**: Using a prompt fed into Google’s Gemini AI model, the application generates a brief traffic prediction and recommendations.
 - **Result Display**: The generated insight is presented to the user through a clean, user-friendly interface.
+
+## Future Development
+Real-Time Data Integration: Integrate actual traffic and weather APIs to provide fully dynamic, live traffic insights.
+User Input Customization: Allow users to input specific locations, routes, or desired travel times for more tailored insights.
+Mobile Compatibility: Develop a mobile version of the app for on-the-go accessibility.
+Multilingual Support: Expand language options to make SmartTraffic AI accessible to a wider, global audience.
+Notification System: Implement real-time push notifications to alert users of significant changes in traffic conditions on their routes.
