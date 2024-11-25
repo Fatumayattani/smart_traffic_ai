@@ -39,3 +39,6 @@ Contributions are welcome to improve SmartTraffic AI’s capabilities and user e
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Commit your changes and open a pull request.
+
+## License
+This project is licensed under the MIT License 
